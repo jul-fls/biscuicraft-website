@@ -1,2 +1,2 @@
-# biscuicraft-website
-Le site Web de biscuicraft
+# Biscuicraft Website
+Le site Web de Biscuicraft
